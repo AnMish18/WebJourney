@@ -1,0 +1,2 @@
+This was a part of Angela Yu's WebDevelopement course. Here there are two dice and the dice with the higher
+output after rolling wins.
